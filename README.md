@@ -15,7 +15,6 @@ O sistema simula um semáforo com temporização entre os LEDs, controlado por p
 ## 📌 Conceitos aplicados
 - Lógica de programação
 - Temporização (delay)
-- Circuitos eletrônicos básicos
+- Circuitos eletrônicos básicos 
 
-## 📷 Projeto
-(Aqui você pode adicionar uma foto depois)
+
